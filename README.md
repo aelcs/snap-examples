@@ -3,7 +3,7 @@ Links to examples:
 #### Unit 1
 - [Lab 1.1 Kaleidoscope](http://aelcs.github.io/snap/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-1/lab1.1-kaleidoscope.xml)
 - [Lab 1.2](http://aelcs.github.io/snap/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-1/lab1.2.xml)
-- [lab 1.3 Shapes](http://aelcs.github.io/snap/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-1/lab1.3-shapes.xml)
+- [Lab 1.3 Shapes](http://aelcs.github.io/snap/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-1/lab1.3-shapes.xml)
 - [Lab 1.3 Shapes (with octagon)](http://aelcs.github.io/snap/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-1/lab1.3-shapes-octagon.xml)
 - [Lab 1.4 Part1](http://aelcs.github.io/snap/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-1/lab1.4-part1.xml)
 - [Lab 1.4 Part2](http://aelcs.github.io/snap/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-1/lab1.4-part2.xml)
@@ -22,4 +22,5 @@ Links to examples:
 #### Unit 3
 - [Lab 3.1 Guessing Game](http://aelcs.github.io/snap/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-3/3.1 Guessing Game.xml)
 - [Lab 3.2 Drawing Shapes (Again) - Starter](http://snap.berkeley.edu/snapsource/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-3/3.2 Drawing Shapes (Again) - Starter.xml)
+- [Lab 3.4 Let Me Check My Calendar - Starter](http://snap.berkeley.edu/snapsource/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-3/3.4 Let Me Check My Calendar - Starter.xml)
 - [Lab 3.4 Let Me Check My Calendar](http://aelcs.github.io/snap/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-3/3.4 Let Me Check My Calendar.xml)
