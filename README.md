@@ -13,6 +13,7 @@ Links to examples:
 - [Project 1 Row Row Row Your Boat](http://aelcs.github.io/snap/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-1/Project.1.Row.Row.Row.Your.Boat.xml)
 
 #### Unit 2
+- Lab 2.1 - Starter: http://bitly.com/aelcs-lab2-1
 - [Lab 2.2 Another Brick in the Wall](http://aelcs.github.io/snap/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-2/Lab 2.2 Another Brick in the Wall.xml)
 - [Lab 2.3 Solution](http://aelcs.github.io/snap/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-2/Lab 2.3 Solution.xml)
 - [Lab 2.4 Triangles of All Kinds](http://aelcs.github.io/snap/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-2/Lab 2.4 Triangles of All Kinds.xml)
@@ -21,8 +22,8 @@ Links to examples:
 
 #### Unit 3
 - [Lab 3.1 Guessing Game](http://aelcs.github.io/snap/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-3/3.1 Guessing Game.xml)
-- [Lab 3.2 Drawing Shapes (Again) - Starter](http://snap.berkeley.edu/snapsource/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-3/3.2 Drawing Shapes (Again) - Starter.xml)
+- [Lab 3.2 Drawing Shapes (Again) - Starter](http://snap.berkeley.edu/snapsource/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-3/3.2 Drawing Shapes (Again) - Starter.xml) (http://bitly.com/aelcs-lab3-2-starter)
 - [Lab 3.4 Let Me Check My Calendar - Starter](http://snap.berkeley.edu/snapsource/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-3/3.4 Let Me Check My Calendar - Starter.xml)
 - [Lab 3.4 Let Me Check My Calendar](http://aelcs.github.io/snap/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-3/3.4 Let Me Check My Calendar.xml)
-- [Project 3 Pong - Starter](http://snap.berkeley.edu/snapsource/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-3/Project 3 Pong Starter.xml)
-- [Project 3 Pong - Solution](http://aelcs.github.io/snap/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-3/Project 3 Pong Solution.xml)
+- [Project 3 Pong - Starter](http://snap.berkeley.edu/snapsource/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-3/Project 3 Pong Starter.xml) (http://bitly.com/aelcs-proj3-starter)
+- [Project 3 Pong - Solution](http://aelcs.github.io/snap/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-3/Project 3 Pong Solution.xml) (http://bitly.com/aelcs-proj3-solution)
