@@ -27,3 +27,6 @@ Links to examples:
 - [Lab 3.4 Let Me Check My Calendar](http://aelcs.github.io/snap/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-3/3.4 Let Me Check My Calendar.xml)
 - [Project 3 Pong - Starter](http://snap.berkeley.edu/snapsource/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-3/Project 3 Pong Starter.xml) (http://bitly.com/aelcs-proj3-starter)
 - [Project 3 Pong - Solution](http://aelcs.github.io/snap/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-3/Project 3 Pong Solution.xml) (http://bitly.com/aelcs-proj3-solution)
+
+#### Unit 4
+- [Project 4 Hangman - Solution](http://aelcs.github.io/snap/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-4/Hangman.xml)
