@@ -13,7 +13,7 @@ Links to examples:
 - [Project 1 Row Row Row Your Boat](http://aelcs.github.io/snap/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-1/Project.1.Row.Row.Row.Your.Boat.xml)
 
 #### Unit 2
-- Lab 2.1 - Starter: http://bitly.com/aelcs-lab2-1
+- [Lab 2.1 - Starter](http://snap.berkeley.edu/snapsource/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-2/Lab%202.1%20Starter.xml) (http://bitly.com/aelcs-lab2-1)
 - [Lab 2.2 Another Brick in the Wall](http://aelcs.github.io/snap/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-2/Lab 2.2 Another Brick in the Wall.xml)
 - [Lab 2.3 Solution](http://aelcs.github.io/snap/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-2/Lab 2.3 Solution.xml)
 - [Lab 2.4 Triangles of All Kinds](http://aelcs.github.io/snap/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-2/Lab 2.4 Triangles of All Kinds.xml)
