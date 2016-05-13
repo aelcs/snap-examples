@@ -29,4 +29,6 @@ Links to examples:
 - [Project 3 Pong - Solution](http://aelcs.github.io/snap/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-3/Project 3 Pong Solution.xml) (http://bitly.com/aelcs-proj3-solution)
 
 #### Unit 4
+- [Lab 4.2 You Talkin' To Me? - Starter](http://snap.berkeley.edu/snapsource/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-4/Sentence%20Generator%20(Starter).xml) (http://bitly.com/aelcs-lab-sentence-starter)
+- [Lab 4.2 You Talkin' To Me? - Solution](http://aelcs.github.io/snap/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-4/Sentence%20Generator%20(Solution).xml) (http://bitly.com/aelcs-lab-sentence-solution)
 - [Project 4 Hangman - Solution](http://aelcs.github.io/snap/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-4/Hangman.xml)
