@@ -31,4 +31,7 @@ Links to examples:
 #### Unit 4
 - [Lab 4.2 You Talkin' To Me? - Starter](http://snap.berkeley.edu/snapsource/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-4/Sentence%20Generator%20(Starter).xml) (http://bitly.com/aelcs-lab-sentence-starter)
 - [Lab 4.2 You Talkin' To Me? - Solution](http://aelcs.github.io/snap/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-4/Sentence%20Generator%20(Solution).xml) (http://bitly.com/aelcs-lab-sentence-solution)
+- [Planting Flowers - Starter](http://snap.berkeley.edu/snapsource/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-4/flowers%20(starter).xml) (http://bitly.com/aelcs-flower-starter)
+- [Planting Flowers - Solution](http://aelcs.github.io/snap/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-4/flowers%20(solution).xml)
 - [Project 4 Hangman - Solution](http://aelcs.github.io/snap/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-4/Hangman.xml)
+
