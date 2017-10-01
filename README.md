@@ -14,19 +14,19 @@ Links to examples:
 
 #### Unit 2
 - [Lab 2.1 - Starter](http://snap.berkeley.edu/snapsource/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-2/Lab%202.1%20Starter.xml) (http://bitly.com/aelcs-lab2-1)
-- [Lab 2.2 Another Brick in the Wall](http://aelcs.github.io/snap/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-2/Lab 2.2 Another Brick in the Wall.xml)
-- [Lab 2.3 Solution](http://aelcs.github.io/snap/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-2/Lab 2.3 Solution.xml)
-- [Lab 2.4 Triangles of All Kinds](http://aelcs.github.io/snap/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-2/Lab 2.4 Triangles of All Kinds.xml)
-- [Lab 2.5 What Goes Up Solution](http://aelcs.github.io/snap/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-2/2.5 What Goes Up Solution.xml)
+- [Lab 2.2 Another Brick in the Wall](http://aelcs.github.io/snap/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-2/Lab%202.2%20Another%20Brick%20in%20the%20Wall.xml)
+- [Lab 2.3 Solution](http://aelcs.github.io/snap/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-2/Lab%202.3%20Solution.xml)
+- [Lab 2.4 Triangles of All Kinds](http://aelcs.github.io/snap/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-2/Lab%202.4%20Triangles%20of%20All%20Kinds.xml)
+- [Lab 2.5 What Goes Up Solution](http://aelcs.github.io/snap/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-2/2.5%20What%20Goes%20Up%20Solution.xml)
 - [Project 2 Platformer](http://aelcs.github.io/snap/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-2/project1-platformer.xml)
 
 #### Unit 3
 - [Lab 3.1 Guessing Game](http://aelcs.github.io/snap/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-3/3.1 Guessing Game.xml)
 - [Lab 3.2 Drawing Shapes (Again) - Starter](http://snap.berkeley.edu/snapsource/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-3/3.2 Drawing Shapes (Again) - Starter.xml) (http://bitly.com/aelcs-lab3-2-starter)
 - [Lab 3.4 Let Me Check My Calendar - Starter](http://snap.berkeley.edu/snapsource/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-3/3.4 Let Me Check My Calendar - Starter.xml)
-- [Lab 3.4 Let Me Check My Calendar](http://aelcs.github.io/snap/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-3/3.4 Let Me Check My Calendar.xml)
-- [Project 3 Pong - Starter](http://snap.berkeley.edu/snapsource/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-3/Project 3 Pong Starter.xml) (http://bitly.com/aelcs-proj3-starter)
-- [Project 3 Pong - Solution](http://aelcs.github.io/snap/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-3/Project 3 Pong Solution.xml) (http://bitly.com/aelcs-proj3-solution)
+- [Lab 3.4 Let Me Check My Calendar](http://aelcs.github.io/snap/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-3/3.4%20Let%20Me%20Check%20My%20Calendar.xml)
+- [Project 3 Pong - Starter](http://snap.berkeley.edu/snapsource/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-3/Project%203%20Pong%20Starter.xml) (http://bitly.com/aelcs-proj3-starter)
+- [Project 3 Pong - Solution](http://aelcs.github.io/snap/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-3/Project%203%20Pong%20Solution.xml) (http://bitly.com/aelcs-proj3-solution)
 
 #### Unit 4
 - [Lab 4.2 You Talkin' To Me? - Starter](http://snap.berkeley.edu/snapsource/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-4/Sentence%20Generator%20(Starter).xml) (http://bitly.com/aelcs-lab-sentence-starter)
