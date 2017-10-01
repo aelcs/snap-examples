@@ -21,9 +21,9 @@ Links to examples:
 - [Project 2 Platformer](http://aelcs.github.io/snap/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-2/project1-platformer.xml)
 
 #### Unit 3
-- [Lab 3.1 Guessing Game](http://aelcs.github.io/snap/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-3/3.1 Guessing Game.xml)
-- [Lab 3.2 Drawing Shapes (Again) - Starter](http://snap.berkeley.edu/snapsource/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-3/3.2 Drawing Shapes (Again) - Starter.xml) (http://bitly.com/aelcs-lab3-2-starter)
-- [Lab 3.4 Let Me Check My Calendar - Starter](http://snap.berkeley.edu/snapsource/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-3/3.4 Let Me Check My Calendar - Starter.xml)
+- [Lab 3.1 Guessing Game](http://aelcs.github.io/snap/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-3/3.1%20Guessing%20Game.xml)
+- [Lab 3.2 Drawing Shapes (Again) - Starter](http://snap.berkeley.edu/snapsource/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-3/3.2%20Drawing%20Shapes%20(Again)%20-%20Starter.xml) (http://bitly.com/aelcs-lab3-2-starter)
+- [Lab 3.4 Let Me Check My Calendar - Starter](http://snap.berkeley.edu/snapsource/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-3/3.4%20Let%20Me%20Check%20My%20Calendar%20-%20Starter.xml)
 - [Lab 3.4 Let Me Check My Calendar](http://aelcs.github.io/snap/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-3/3.4%20Let%20Me%20Check%20My%20Calendar.xml)
 - [Project 3 Pong - Starter](http://snap.berkeley.edu/snapsource/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-3/Project%203%20Pong%20Starter.xml) (http://bitly.com/aelcs-proj3-starter)
 - [Project 3 Pong - Solution](http://aelcs.github.io/snap/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-3/Project%203%20Pong%20Solution.xml) (http://bitly.com/aelcs-proj3-solution)
